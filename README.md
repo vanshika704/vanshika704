@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web development.<br>I'm currently learning React.<br>Ask me about Flutter , firebase ,Canva
+I'm currently working on Web development.<br>I'm currently learning React.<br>Ask me about Flutter , firebase ,Canva , React , Chakra Ui , bootstrap
 
 
 ## 🌐 Socials:
